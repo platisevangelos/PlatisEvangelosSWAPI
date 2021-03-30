@@ -1,0 +1,11 @@
+To search for a character, use :
+    python main.py search 'character name'
+
+To search for a character and their homeworld, use:
+    python main.py search 'character name' --world
+
+To show the cached data, use:
+    python main.py cache --show
+
+To clear the cached data, use:
+    python main.py cache --clean
